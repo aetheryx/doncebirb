@@ -60,6 +60,6 @@ server.on('request', async (req, res) => {
   let currentFrameIndex = -1;
   while (!res.socket.destroyed) {
     await res.write(gif[++currentFrameIndex] || gif[currentFrameIndex = 0]);
-    await sleep(60);
+    await sleep(95);
   }
 });

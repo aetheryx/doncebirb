@@ -1,35 +1,23 @@
-                                                        
-                                       .;:.             
-                                  ..,cdkd,              
-             ..,:clllcc::;;;;;:coxk0KKk:.               
-          .,lk0XXNNNNNNNNXXXXXNNNNXK0d.                 
-         ,xKNNNNNNNNNNNNNNNNNNNNNNXOo'                  
-        ;ONNNNNNNNNNNNNNNNNNNNNNNXk:.                   
-      .:xkOKNNNNNNNNNNK0xdxO0KNNNO;         .:d;        
-     .lx:',c0NXKXXNNNOc;'..,;oXNNO,        ;xKXd.       
-     ,oxoclk00OOOOKNNKd:;;:lldOKN0;      .dKNNNO,       
-    .:oodOXX0OOOOOOKNNX0xdddoodOXO,    .cOXNNNNKc       
-    .:odk0XX0kOOOO0XNNNKkdoooox0Xx.   'dXNNNNNNXo.      
-     ,d0XNNNX00KKXNNNNNNX0OOO0KXKd'  :ONWNNNNNNXd.      
-    .l0XNNNNNNNNNNNNNNNNNNNNNNNNX0c'lKWWWWWWWWNXl       
-    .c0NNNNNNNNNNNNNNNNNNNNNNNWNWXxxXWWWWWWWWWWK:       
-    .oKWWWNNWWNWWNNNNNWWWWWWWWWWWNK0XNWWWWWWWWWK:    .'.
-   .dXWWWWWWWWWWWWWWWWWWWWWWWWWNXKKKKXXXXNNWWWWKc. .:xd'
-  .dXWWWWWWWWWWWWWWWWWWWWWWWWWNXXNWWWWWNNXXXNNXx::okK0o.
- .l0WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXK0kkO0000Oc 
- ckKWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXKKXXK00d. 
-.d0KWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXOd.  
-'k0KWWWWWWWWWWWWWWWWWWWWWWNNNNWWWWWWWWWWWWWWWWWWWW0l.   
-.kKKNWWWWWWWWWWWWWWWWWWWWWXKKXWWWWWWWWWWWWWWWWWWWNx.    
- :OKNWWWWWWWWWWWWWWWWWWWWWNK0KNWWWWWWWWWWWWWWWWWNk'     
- .lkKWWWWWWWWWWWWWWWWWWWWWWNXKKXNWWWWWWWWWWWWWNKo.      
-  .;kNWWWWWWWWWWWWWWWWWWWWWWWWNXXXXXXNNNNNXXXK0l.       
-    :0WWWWWWWWWWWWWWWWWWWWWWWWWWWNNXXXXXXXXXXNXo.       
-    .c0WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWN0l.        
-      ,kNWWWWWWWWWWWWWWWWWNWWWWWWWWWWWWWWWX0o'          
-       .ckXWWWWWWWWWWWWWXKKXWWWWWWWWWWN0ko,.            
-         .:x0XXXXXXXNNNNKOO0KKKXNNNN0o;.                
-        .,lxxxxkkko;,;;;;,,lxxkkkOko'                   
-       .ckOkxkOOkc.       .lkOOkxOk:.                   
-        ,::lxkxc.         .:dxOxodxc.                   
-           .::.            .';c,....                    
+                                    
+                        .,;.        
+        ..,;;;,,,,,,;coxxl.         
+      ,okKXXNNXXXXXXXNXk;           
+    .c0NNNNNNNNNNNNNNXx'            
+   .:ooOXXXNNKxoldk0NO,     'ol.    
+   ;ollk0OOKX0o::coxKO,   .l0NO,    
+  .:okKKOOO0XNKkdoodOk'  ;OXNNK:    
+   :OXNXKKXXNNNX0000Kk'.oKNNNNXc    
+  .lKNNNNNNNNNNNNNNNNKdxNWWWWWK;    
+  'xNWWWWWWNNWWWWWWWWNKKXNWWWWK;  ..
+ 'xNWWWWWWWWWWWWWWWNNXXXNNNXNNOc:ok:
+.oXWWWWWWWWWWWWWWWWWWWWWWWWNXKO000x'
+:0NWWWWWWWWWWWWWWWWWWWWWWWWWWWNNXk; 
+c0XWWWWWWWWWWWWWNNXNWWWWWWWWWWWWO,  
+,kXWWWWWWWWWWWWWNXKXNWWWWWWWWWW0:   
+ ,kNWWWWWWWWWWWWWNNXXNNNNNNNNXk,    
+  ,OWWWWWWWWWWWWWWWWWNNNNNNNXKl.    
+   ,kNWWWWWWWWWWWWWWWWWWWWWXOc.     
+    .:kXNWWWWWWXKXNNWWWN0xc,.       
+     .cxO00xlllccokOO0Oc.           
+    .:dxkxc.     :kkkxo.            
+     ..:l,       'clc;;.            
