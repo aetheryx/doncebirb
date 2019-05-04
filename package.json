@@ -1,0 +1,13 @@
+{
+  "name": "doncebirb",
+  "version": "1.0.0",
+  "description": "a server to display rainbow gifs to clients through curl",
+  "main": "index.js",
+  "keywords": [ "http", "curl", "ascii" ],
+  "author": "aetheryx",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/aetheryx/doncebirb/issues"
+  },
+  "homepage": "https://github.com/aetheryx/doncebirb#readme"
+}
